@@ -177,7 +177,7 @@ CREATE TABLE STUDENT (
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Student-Management-System.git
+git clone https://github.com/YOUR_USERNAME/Student-Management-System-2026.git
 ```
 
 ### Step 2: Import into Eclipse
