@@ -6,8 +6,8 @@ import java.sql.DriverManager;
 public class DBConnection {
 	private static final String DRIVERNAME = "org.postgresql.Driver";  
 	private static final String URL = "jdbc:postgresql://localhost:5432/College_Works";  
-	private static final String USERNAME ="postgres"; 
-	private static final String PASSWORD ="sb2004";  
+	private static final String USERNAME ="username"; 
+	private static final String PASSWORD ="pass";  
 	
 	public static Connection getConnection() {
 		Connection con = null;
