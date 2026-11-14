@@ -9,7 +9,7 @@ public class Dao
 
     // Function to insert student details
 
-    public boolean addStudent(int studentId, String studentName, String email, String phone, String gender, String dob, String course, int semester, String rollNumber, String collegeName, String address) 
+    public static boolean addStudent(int studentId, String studentName, String email, String phone, String gender, String dob, String course, int semester, String rollNumber, String collegeName, String address) 
     {
 
         boolean status = false;
@@ -55,7 +55,7 @@ public class Dao
 
     // Function to view all student records
 
-    public ResultSet viewStudents() 
+    public static ResultSet viewStudents() 
     {
 
         ResultSet rs = null;
