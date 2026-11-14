@@ -231,15 +231,15 @@ http://localhost:8082/Student_Management_System/index.html
 
 ### 1. Student Registration Page
 
-<!-- Add registration page screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ef29400-7a7d-4cc7-addf-0c558cc78a0e" />
 
 ### 2. Successful Student Registration
 
-<!-- Add successful registration screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c26a4052-6317-4125-94c5-b97e0405499d" />
 
 ### 3. Student Records Display Page
 
-<!-- Add student records screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45ddfc50-64f2-40d5-a329-79ed2cc5dc8b" />
 
 ## 🔮 Future Enhancements
 
